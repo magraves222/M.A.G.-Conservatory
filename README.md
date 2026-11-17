@@ -1,7 +1,15 @@
-# M.A.G.-Conservatory
-A personal exhibit by Miranda A. Graves featuring work from my notebooks, creative experiments, and projects in development.
+# M.A.G. Conservatory
 
-[Explore YOUR STU](https://github.com/magraves222/YOUR-STU)
+This is the public homepage for what I’m developing within the [YOUR STU ecosystem](https://github.com/magraves222/YOUR-STU). I’m Miranda A. Graves, and this is where I share work from my notebooks, creative experiments, and projects in development.
+
+## July 2026 · First Edition
+
+[![M.A.G. Conservatory July 2026 cover](exhibits/july-2026/cover.webp)](exhibits/july-2026/cover.webp)
+
+- [Title page](exhibits/july-2026/title-page.webp)
+- [Month overview](exhibits/july-2026/month-overview.webp)
+- [Table of contents design](exhibits/july-2026/contents.webp)
+- [The Metamorphosis Letter](exhibits/july-2026/metamorphosis-letter.webp)
 
 ## Research
 
